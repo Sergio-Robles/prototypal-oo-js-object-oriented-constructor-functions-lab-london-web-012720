@@ -1,6 +1,6 @@
 # Constructor Functions Lab
 
-## Objectives
+## Objectives   
 + Build constructor functions
 + Build objects with properties from a constructor function
 
